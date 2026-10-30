@@ -34,6 +34,9 @@ This dashboard provides a high-level view of business performance,
 including revenue, order value, pizza quantity, ordering trends,
 category contribution, and pizza-size preferences.
 
+### 📊 Dashboard 1 – Sales Overview
+
+![Pizza Place Sales Dashboard 1](images/dashboard-1.png)
 ![Pizza Place Sales Dashboard 1](images/dashboard-1.png)
 
 ### Dashboard 2 --- Product Performance
