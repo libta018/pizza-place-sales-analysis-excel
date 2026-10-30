@@ -77,7 +77,7 @@ The project uses four related data tables:
                                       ingredients
   -----------------------------------------------------------------------
 
-*Dataset source/link: add the original dataset URL here.*
+
 
 ## 🛠️ Tools & Techniques
 
