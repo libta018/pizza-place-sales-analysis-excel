@@ -30,6 +30,16 @@ where promotional opportunities may exist.
 
 ### 1. Sales Overview
 
+![Pizza Place Sales Dashboard 1](Dashboard%201%20%E2%80%93%20Sales%20Overview.png)
+
+### 2. Product Performance
+
+![Pizza Place Sales Dashboard 2](Dashboard%202%20%E2%80%93%20Product%20Performance.png)
+
+## 📊 Dashboard Preview
+
+### 1. Sales Overview
+
 ![Pizza Place Sales Dashboard 1](images/dashboard-1.png)
 
 ### 2. Product Performance
