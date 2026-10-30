@@ -30,34 +30,19 @@ where promotional opportunities may exist.
 
 ### Dashboard 1 --- Sales Overview
 
+![Dashboard 1](images/dashboard-1.png)
+
 This dashboard provides a high-level view of business performance,
 including revenue, order value, pizza quantity, ordering trends,
 category contribution, and pizza-size preferences.
 
-
-## 📊 Dashboard Preview
-
-### Dashboard 1 – Sales Overview
-
-![Dashboard 1](images/dashboard-1.png)
-
 ### Dashboard 2 – Product Performance
 
 ![Dashboard 2](images/dashboard-2.png)
-![Pizza Place Sales Dashboard 1](images/dashboard-1.png)
-![Pizza Place Sales Dashboard 1](images/dashboard-1.png)
-
-### Dashboard 2 --- Product Performance
 
 This dashboard compares the top- and bottom-performing pizzas across
 revenue, quantity sold, and number of orders, helping identify products
 that perform well and those that may need review.
-
-![Pizza Place Sales Dashboard 2](images/dashboard-2.png)
-
-> **Tip:** If the images do not appear on GitHub, make sure both
-> screenshot files are uploaded to the repository's `images` folder with
-> these exact names: `dashboard-1.png` and `dashboard-2.png`.
 
 ## 🎯 Business Objectives
 
